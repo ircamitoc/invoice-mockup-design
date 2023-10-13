@@ -1,0 +1,36 @@
+.va-container {
+  margin: 0 0 0.75rem 0;
+  font-size: 18px;
+  text-align: justify;
+  padding: 2.5rem;
+}
+.va-header {
+  color: #ef3340;
+}
+
+.invoice-table {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.invoice-table-header {
+  text-align: center;
+}
+
+.invoice-head {
+  color: #63666a;
+}
+
+.invoice-price {
+  text-align: right;
+}
+
+.va-contact {
+  text-align: center;
+  margin-top: 40px;
+  line-height: 0.5;
+}
+
+.va-support {
+  margin-top: 50px;
+}

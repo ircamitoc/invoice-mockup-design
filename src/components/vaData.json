@@ -1,0 +1,16 @@
+{
+  "identifiedVar": "12",
+  "initialVAPay": "0.00",
+  "currentVAPay": "1319.65",
+  "totalIncreaseMonthly": "1,319.65",
+  "totalIncreaseYearly": "15,835.80",
+  "yearEarningsIncrease": "5",
+  "totalYearsEarningsIncrease": "79,179.00",
+  "roiTMSF": "6,598.25",
+  "roiFactor": "12",
+  "tableItems": {
+    "description": "Medical Evidence and Consulting Services Fee",
+    "unitPrice": "6,598.25"
+  },
+  "contactNumber": "1-855-472-3203"
+}
